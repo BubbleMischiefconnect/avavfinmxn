@@ -1,16 +1,72 @@
 [
   {
-    "id": "save-1",
+    "id": "en-save-1",
     "title": "How to start saving",
-    "subtitle": "Small steps that actually work",
+    "subtitle": "A realistic approach for everyday life",
     "category": "Savings",
-    "content": "Start by tracking expenses for 7 days..."
+    "content": "Saving money does not start with big sacrifices. It starts with awareness. Track all your expenses for at least 7 days, including small purchases like coffee or delivery fees. Once you see where your money actually goes, choose one category where you can realistically reduce spending by 5–10%. The key is consistency. Automate your savings so a small amount is transferred to savings immediately after you receive your income. This removes the need for discipline and makes saving automatic."
   },
   {
-    "id": "debt-1",
+    "id": "en-save-2",
+    "title": "Why an emergency fund matters",
+    "subtitle": "Financial stability in uncertain times",
+    "category": "Savings",
+    "content": "An emergency fund is money set aside for unexpected situations such as medical expenses, urgent repairs, or temporary loss of income. Without it, people often rely on high-interest loans or credit cards. A good long-term goal is to save 3 to 6 months of essential expenses. You don’t need to build it overnight. Start small, contribute regularly, and keep the fund separate from your daily spending account."
+  },
+  {
+    "id": "en-save-3",
+    "title": "Pay yourself first",
+    "subtitle": "A simple rule that changes everything",
+    "category": "Savings",
+    "content": "Paying yourself first means saving before you spend, not after. Instead of saving whatever is left at the end of the month, treat savings as a mandatory expense. Even a small fixed amount creates momentum. Over time, this habit builds financial security and reduces stress, because saving is no longer dependent on willpower."
+  },
+  {
+    "id": "en-budget-1",
+    "title": "Budgeting made simple",
+    "subtitle": "Control your money without feeling restricted",
+    "category": "Budget",
+    "content": "A budget is not about restriction; it is about clarity. Start by listing your monthly income and fixed expenses such as rent, utilities, and debt payments. What remains is your flexible spending. Decide in advance how much of it goes to essentials, enjoyment, and savings. A clear budget helps you make confident decisions and avoid financial surprises."
+  },
+  {
+    "id": "en-budget-2",
+    "title": "The 50/30/20 rule explained",
+    "subtitle": "A flexible budgeting framework",
+    "category": "Budget",
+    "content": "The 50/30/20 rule suggests allocating 50% of income to needs, 30% to wants, and 20% to savings. It is a guideline, not a strict rule. In reality, your situation may require adjustments. Use this framework as a starting point and adapt it based on your income level, living costs, and financial goals."
+  },
+  {
+    "id": "en-debt-1",
     "title": "Debt vs Budget",
-    "subtitle": "How to keep payments under control",
+    "subtitle": "How to keep repayments under control",
     "category": "Debt",
-    "content": "A simple rule: keep total monthly payments..."
+    "content": "Debt becomes dangerous when it consumes too much of your income. A common recommendation is to keep total monthly debt payments below 30–40% of income. If payments exceed this level, your budget becomes fragile. Regularly reviewing your debt load helps you spot risks early and avoid financial stress."
+  },
+  {
+    "id": "en-debt-2",
+    "title": "Good debt and bad debt",
+    "subtitle": "Understanding the difference",
+    "category": "Debt",
+    "content": "Good debt is often associated with long-term value, such as education or tools that increase earning potential. Bad debt usually finances consumption and carries high interest. Understanding the difference helps you make smarter borrowing decisions and avoid loans that damage your financial health."
+  },
+  {
+    "id": "en-debt-3",
+    "title": "How to reduce debt faster",
+    "subtitle": "Two proven strategies",
+    "category": "Debt",
+    "content": "There are two popular debt repayment methods: the snowball and the avalanche. The snowball focuses on paying the smallest balance first for motivation. The avalanche targets the highest interest rate to save money. Choose the method you can stick with consistently."
+  },
+  {
+    "id": "en-habits-1",
+    "title": "Spending awareness",
+    "subtitle": "The hidden power of tracking expenses",
+    "category": "Habits",
+    "content": "Many financial problems are not caused by large expenses but by frequent small ones. Tracking daily spending increases awareness and helps you make conscious choices. Awareness alone often leads to reduced spending without strict rules."
+  },
+  {
+    "id": "en-habits-2",
+    "title": "Consistency beats perfection",
+    "subtitle": "Build sustainable financial habits",
+    "category": "Habits",
+    "content": "Perfect financial plans fail if they are not sustainable. Small, consistent actions over time create real results. Focus on habits you can maintain even during difficult months. Progress matters more than perfection."
   }
 ]
