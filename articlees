@@ -1,0 +1,72 @@
+[
+  {
+    "id": "es-save-1",
+    "title": "Cómo empezar a ahorrar",
+    "subtitle": "Un enfoque realista para el día a día",
+    "category": "Ahorro",
+    "content": "Ahorrar no empieza con grandes sacrificios, sino con conciencia. Registra todos tus gastos durante al menos 7 días, incluidos los pequeños pagos diarios. Al ver claramente a dónde va tu dinero, elige una categoría donde puedas reducir entre un 5 y 10%. Automatizar el ahorro justo después de recibir tu ingreso hace que el hábito sea constante y sin esfuerzo."
+  },
+  {
+    "id": "es-save-2",
+    "title": "Por qué es importante un fondo de emergencia",
+    "subtitle": "Estabilidad financiera ante imprevistos",
+    "category": "Ahorro",
+    "content": "Un fondo de emergencia sirve para cubrir gastos inesperados como problemas médicos o reparaciones urgentes. Sin este fondo, muchas personas recurren a créditos caros. El objetivo ideal es ahorrar entre 3 y 6 meses de gastos básicos, construyéndolo poco a poco."
+  },
+  {
+    "id": "es-save-3",
+    "title": "Págate a ti primero",
+    "subtitle": "Un hábito que transforma tus finanzas",
+    "category": "Ahorro",
+    "content": "Pagarte a ti primero significa ahorrar antes de gastar. En lugar de ahorrar lo que sobra, considera el ahorro como un gasto obligatorio. Este enfoque reduce el estrés financiero y crea seguridad a largo plazo."
+  },
+  {
+    "id": "es-budget-1",
+    "title": "Presupuesto sin complicaciones",
+    "subtitle": "Control sin sensación de restricción",
+    "category": "Presupuesto",
+    "content": "Un presupuesto no es una limitación, sino una herramienta de claridad. Comienza anotando tus ingresos y gastos fijos. El dinero restante es tu gasto flexible. Planificarlo con anticipación te permite tomar mejores decisiones."
+  },
+  {
+    "id": "es-budget-2",
+    "title": "La regla 50/30/20",
+    "subtitle": "Un marco flexible para organizarte",
+    "category": "Presupuesto",
+    "content": "La regla 50/30/20 propone usar el 50% del ingreso para necesidades, el 30% para gustos y el 20% para ahorro. No es una regla estricta, sino una guía que puedes adaptar según tu realidad."
+  },
+  {
+    "id": "es-debt-1",
+    "title": "Deuda y presupuesto",
+    "subtitle": "Cómo mantener los pagos bajo control",
+    "category": "Deuda",
+    "content": "La deuda se vuelve peligrosa cuando consume gran parte del ingreso. Se recomienda que los pagos mensuales no superen el 30–40% del ingreso total. Revisar esta proporción regularmente ayuda a evitar problemas financieros."
+  },
+  {
+    "id": "es-debt-2",
+    "title": "Deuda buena y deuda mala",
+    "subtitle": "Aprende a diferenciarlas",
+    "category": "Deuda",
+    "content": "La deuda buena suele generar valor a largo plazo, mientras que la deuda mala financia consumo con altos intereses. Entender esta diferencia te ayuda a tomar mejores decisiones al pedir un préstamo."
+  },
+  {
+    "id": "es-debt-3",
+    "title": "Cómo salir de deudas más rápido",
+    "subtitle": "Estrategias efectivas",
+    "category": "Deuda",
+    "content": "Existen dos métodos comunes: pagar primero la deuda más pequeña o la de mayor interés. Elige el método que puedas mantener en el tiempo, ya que la constancia es clave."
+  },
+  {
+    "id": "es-habits-1",
+    "title": "Conciencia del gasto",
+    "subtitle": "El poder de registrar tus gastos",
+    "category": "Hábitos",
+    "content": "Muchos problemas financieros no vienen de grandes gastos, sino de pequeños pagos frecuentes. Registrar estos gastos aumenta la conciencia y mejora el control sin necesidad de restricciones extremas."
+  },
+  {
+    "id": "es-habits-2",
+    "title": "La constancia supera a la perfección",
+    "subtitle": "Hábitos financieros sostenibles",
+    "category": "Hábitos",
+    "content": "Los planes perfectos fallan si no son sostenibles. Pequeñas acciones constantes generan resultados reales. En finanzas, avanzar poco a poco es mejor que no avanzar."
+  }
+]
