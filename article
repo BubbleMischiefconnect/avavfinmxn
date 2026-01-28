@@ -1,0 +1,16 @@
+[
+  {
+    "id": "save-1",
+    "title": "How to start saving",
+    "subtitle": "Small steps that actually work",
+    "category": "Savings",
+    "content": "Start by tracking expenses for 7 days..."
+  },
+  {
+    "id": "debt-1",
+    "title": "Debt vs Budget",
+    "subtitle": "How to keep payments under control",
+    "category": "Debt",
+    "content": "A simple rule: keep total monthly payments..."
+  }
+]
